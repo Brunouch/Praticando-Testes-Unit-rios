@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Testes\\tests\\Service\\AvaliadorTest::test_avaliador_busca_lance_com_menor_valor":7},"times":{"Testes\\tests\\Service\\AvaliadorTest::test_avaliador_busca_lance_com_maior_valor":0.023,"Testes\\tests\\Service\\AvaliadorTest::test_avaliador_busca_lance_com_menor_valor":0.049}}
